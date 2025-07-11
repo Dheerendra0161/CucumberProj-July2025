@@ -44,3 +44,25 @@
 2025-07-11 18:16:53.589 [main] DEBUG stepdefinitions.HomePageSteps - Navigated to HealthInsurancePage.
 2025-07-11 18:16:53.591 [main] INFO  stepdefinitions.HealthInsuranceSteps - Verifying if user is on the Health Insurance page.
 2025-07-11 18:16:53.602 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Current URL: https://www.renewbuyinsurance.com/health-insurance
+2025-07-11 18:43:12.012 [main] INFO  stepdefinitions.HomePageSteps - Launching the browser...
+2025-07-11 18:43:14.375 [main] DEBUG stepdefinitions.HomePageSteps - WebDriver instance created: ChromeDriver: chrome on windows (47e11ff0e1e6aaef1479d91ba28f4ead)
+2025-07-11 18:43:14.377 [main] INFO  stepdefinitions.HomePageSteps - Opening RenewBuy homepage...
+2025-07-11 18:43:14.404 [main] DEBUG stepdefinitions.HomePageSteps - HomePage object initialized.
+2025-07-11 18:43:14.405 [main] INFO  stepdefinitions.HomePageSteps - Clicking on Health Insurance link...
+2025-07-11 18:43:16.762 [main] DEBUG stepdefinitions.HomePageSteps - Navigated to HealthInsurancePage.
+2025-07-11 18:43:16.765 [main] INFO  stepdefinitions.HealthInsuranceSteps - Verifying if user is on the Health Insurance page.
+2025-07-11 18:43:16.779 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Current URL: https://www.renewbuyinsurance.com/health-insurance
+2025-07-11 18:43:16.818 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Page title verification result: true
+2025-07-11 18:43:16.821 [main] INFO  stepdefinitions.HealthInsuranceSteps - Filling the health insurance form with test data.
+2025-07-11 18:43:16.825 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Full Name: Test User, Pincode: 110001, Number: 9999999999, Captcha: 1234
+2025-07-11 18:43:22.110 [main] INFO  stepdefinitions.HomePageSteps - Launching the browser...
+2025-07-11 18:43:23.670 [main] DEBUG stepdefinitions.HomePageSteps - WebDriver instance created: ChromeDriver: chrome on windows (73da91c376e1ba9b8f17d5141df54ad2)
+2025-07-11 18:43:23.684 [main] INFO  stepdefinitions.HomePageSteps - Opening RenewBuy homepage...
+2025-07-11 18:43:23.685 [main] DEBUG stepdefinitions.HomePageSteps - HomePage object initialized.
+2025-07-11 18:43:23.694 [main] INFO  stepdefinitions.HomePageSteps - Clicking on Health Insurance link...
+2025-07-11 18:43:28.598 [main] DEBUG stepdefinitions.HomePageSteps - Navigated to HealthInsurancePage.
+2025-07-11 18:43:28.600 [main] INFO  stepdefinitions.HealthInsuranceSteps - Verifying if user is on the Health Insurance page.
+2025-07-11 18:43:28.616 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Current URL: https://www.renewbuyinsurance.com/health-insurance
+2025-07-11 18:43:28.651 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Page title verification result: true
+2025-07-11 18:43:28.652 [main] INFO  stepdefinitions.HealthInsuranceSteps - Filling the health insurance form with test data.
+2025-07-11 18:43:28.652 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Full Name: Alice Doe, Pincode: 400001, Number: 8888888888, Captcha: 5678
