@@ -136,6 +136,9 @@
 					<artifactId>maven-surefire-plugin</artifactId>
 					<version>3.2.5</version>
 					<configuration>
+						<suiteXmlFiles>
+							<suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
+						</suiteXmlFiles>
 						<systemPropertyVariables>
 							<java.util.logging.config.file>
 								${project.basedir}/src/test/resources/logging.properties</java.util.logging.config.file>
