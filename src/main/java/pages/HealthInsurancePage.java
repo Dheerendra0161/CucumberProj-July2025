@@ -34,9 +34,10 @@ public class HealthInsurancePage {
 	@FindBy(xpath = "//div[@class='row mx-0 mb-3']")
 	WebElement getQuotesBtn;
 
-	public boolean getPageTitle(String textPage) {
-		return textOnPage.getText().contains(textPage);
+	public String getPageTitle() {
+		return textOnPage.getText();
 	}
+
 
 	public void enterFullName(String name) {
 		wait.typeWhenVisible(fullName, name);

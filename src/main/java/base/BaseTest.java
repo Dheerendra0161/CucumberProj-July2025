@@ -10,17 +10,19 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import config.ConfigReader;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import utils.DriverFactory;
 
 public class BaseTest {
-    public static WebDriver driver;
+
     public static Properties prop;
 
+    // ✅ Initialize driver using ThreadLocal
     public WebDriver initialize() {
-        // ✅ Load environment config
+        // ✅ Load environment-specific properties
         String env = System.getProperty("env", "qa");
         prop = ConfigReader.loadProperties(env);
 
-        // ✅ Get browser from system property or config file
+        // ✅ Get browser type from system or config
         String browser = System.getProperty("browser");
         if (browser == null || browser.trim().isEmpty()) {
             browser = prop.getProperty("browser");
@@ -29,37 +31,40 @@ public class BaseTest {
         browser = browser.trim().toLowerCase();
         System.out.println("✅ Browser selected: " + browser);
 
-        // ✅ Launch browser based on selection
+        WebDriver driverInstance;
+
+        // ✅ Launch driver based on browser type
         switch (browser) {
             case "chrome":
                 WebDriverManager.chromedriver().setup();
-                driver = new ChromeDriver();
+                driverInstance = new ChromeDriver();
                 break;
             case "firefox":
                 WebDriverManager.firefoxdriver().setup();
-                driver = new FirefoxDriver();
+                driverInstance = new FirefoxDriver();
                 break;
             case "edge":
                 WebDriverManager.edgedriver().setup();
-                driver = new EdgeDriver();
+                driverInstance = new EdgeDriver();
                 break;
             default:
                 throw new RuntimeException("❌ Unsupported browser: " + browser);
         }
 
-        // ✅ Browser setup
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        driver.manage().window().maximize();
-        driver.get(prop.getProperty("url"));
+        // ✅ Assign to ThreadLocal Driver
+        DriverFactory.setDriver(driverInstance);
+
+        // ✅ Driver setup
+        driverInstance.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        driverInstance.manage().window().maximize();
+        driverInstance.get(prop.getProperty("url"));
 
         System.out.println("✅ URL launched: " + prop.getProperty("url"));
-        return driver;
+        return driverInstance;
     }
 
+    // ✅ Clean up the driver after test
     public void tearDown() {
-        if (driver != null) {
-            driver.quit();
-            System.out.println("✅ Browser closed");
-        }
+        DriverFactory.quitDriver();
     }
 }
