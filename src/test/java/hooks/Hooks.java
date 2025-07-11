@@ -15,42 +15,32 @@ import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import utils.DriverFactory;
+import utils.ScreenshotUtil;
 
 public class Hooks {
 
-    BaseTest baseTest = new BaseTest();
+	BaseTest baseTest = new BaseTest();
 
-    @Before
-    public void setUp() {
-        baseTest.initialize();  // Internally sets ThreadLocal driver
-    }
+	@Before
+	public void setUp() {
+		baseTest.initialize(); // Internally sets ThreadLocal driver
+	}
 
-    @After
-    public void tearDown(Scenario scenario) {
-        WebDriver driver = DriverFactory.getDriver();
+	@After
+	public void tearDown(Scenario scenario) {
+		WebDriver driver = DriverFactory.getDriver();
 
-        if (driver != null) {
-            if (scenario.isFailed()) {
-                try {
-                    TakesScreenshot ts = (TakesScreenshot) driver;
-                    File src = ts.getScreenshotAs(OutputType.FILE);
+		if (driver != null) {
+			if (scenario.isFailed()) {
+				// ✅ Use your utility method instead of repeating code
+				String screenshotPath = ScreenshotUtil.captureScreenshot(driver,
+						scenario.getName().replaceAll("[^a-zA-Z0-9]", "_"));
+				System.out.println("🖼 Screenshot captured at: " + screenshotPath);
+			}
 
-                    String screenshotDir = "screenshots";
-                    Files.createDirectories(Paths.get(screenshotDir));
-
-                    File dest = new File(screenshotDir + "/" + scenario.getName().replaceAll("[^a-zA-Z0-9]", "_") + ".png");
-                    FileUtils.copyFile(src, dest);
-
-                    System.out.println("🖼 Screenshot captured: " + dest.getAbsolutePath());
-
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
-
-            DriverFactory.quitDriver();  // ✅ Proper cleanup
-        } else {
-            System.out.println("⚠️ WebDriver is null — skipping screenshot and quit");
-        }
-    }
+			DriverFactory.quitDriver(); // ✅ Always close browser
+		} else {
+			System.out.println("⚠️ WebDriver is null — skipping screenshot and quit");
+		}
+	}
 }
