@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven build
+/target/
+/logs/
+/test-output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# Cucumber Reports
+cucumber-reports.html
+cucumber.json
+extentReport.html

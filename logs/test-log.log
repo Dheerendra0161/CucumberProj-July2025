@@ -1,0 +1,138 @@
+2025-07-11 16:08:06,870 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-11 16:08:06,876 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-07-11 16:08:06,880 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,881 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,881 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,882 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,883 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,883 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,886 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,898 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+2025-07-11 16:08:06,901 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,901 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,902 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,902 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,903 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,903 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,905 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,905 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,907 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,907 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,908 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,908 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,908 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,910 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,917 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-07-11 16:08:06,917 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,918 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,919 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,919 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:08:06,919 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:08:06,927 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse--1939642958\testng-customsuite.xml
+
+2025-07-11 16:08:06,946 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-07-11 16:08:07,630 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@5c10285a: 49 ms
+2025-07-11 16:08:07,637 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@376e7531: 7 ms
+2025-07-11 16:08:07,647 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@65f58c6e: 9 ms
+2025-07-11 16:08:07,657 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7495699f: 10 ms
+2025-07-11 16:08:07,663 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@40298285: 5 ms
+2025-07-11 16:08:07,664 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@22367b8: 0 ms
+2025-07-11 16:25:27,660 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-11 16:25:27,669 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2025-07-11 16:25:27,671 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,671 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,672 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,672 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,673 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,673 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,676 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,687 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+2025-07-11 16:25:27,689 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,691 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,692 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,693 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,693 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,693 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,697 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,697 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,697 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,698 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,699 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,699 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,699 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,700 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,705 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-07-11 16:25:27,706 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-11 16:25:27,707 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,707 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,707 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-11 16:25:27,707 INFO o.t.i.Utils [main] [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-11 16:25:27,717 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\AppData\Local\Temp\testng-eclipse-2142247303\testng-customsuite.xml
+
+2025-07-11 16:25:27,739 INFO o.t.i.Utils [main] [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-07-11 16:25:29,288 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 138.0.7204.94 (resolved driver for Chrome 138)
+2025-07-11 16:25:29,316 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-11 16:25:30,381 WARN o.o.s.d.CdpVersionFinder [main] Unable to find CDP implementation matching 138
+2025-07-11 16:25:30,382 WARN o.o.s.c.ChromiumDriver [main] Unable to find version of CDP to use for 138.0.7204.101. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-11 16:25:32,025 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 138.0.7204.94 (resolved driver for Chrome 138)
+2025-07-11 16:25:32,045 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-11 16:25:32,862 WARN o.o.s.d.CdpVersionFinder [main] Unable to find CDP implementation matching 138
+2025-07-11 16:25:32,863 WARN o.o.s.c.ChromiumDriver [main] Unable to find version of CDP to use for 138.0.7204.101. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-11 16:25:33,574 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 138.0.7204.94 (resolved driver for Chrome 138)
+2025-07-11 16:25:33,594 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-11 16:25:34,255 WARN o.o.s.d.CdpVersionFinder [main] Unable to find CDP implementation matching 138
+2025-07-11 16:25:34,256 WARN o.o.s.c.ChromiumDriver [main] Unable to find version of CDP to use for 138.0.7204.101. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-11 16:25:36,476 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 138.0.7204.94 (resolved driver for Chrome 138)
+2025-07-11 16:25:36,492 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-11 16:25:37,192 WARN o.o.s.d.CdpVersionFinder [main] Unable to find CDP implementation matching 138
+2025-07-11 16:25:37,192 WARN o.o.s.c.ChromiumDriver [main] Unable to find version of CDP to use for 138.0.7204.101. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-11 16:25:42,978 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.jq.Main@22048bd6: 50 ms
+2025-07-11 16:25:42,992 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.FailedReporter@2a136383: 13 ms
+2025-07-11 16:25:43,002 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.XMLReporter@36551e97: 10 ms
+2025-07-11 16:25:43,008 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5f6494c0: 6 ms
+2025-07-11 16:25:43,019 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1cee2e10: 11 ms
+2025-07-11 16:25:43,019 INFO o.t.i.Utils [main] [TestNG] Time taken by org.testng.internal.ExitCodeListener@7f4e5a39: 0 ms
+2025-07-11 16:27:27,595 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\user\eclipse-workspace\selenium-java-testng-project\src\test\resources\testng.xml
+
+2025-07-11 16:27:28,749 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 138.0.7204.94 (resolved driver for Chrome 138)
+2025-07-11 16:27:28,779 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-11 16:27:30,066 WARN o.o.s.d.CdpVersionFinder [main] Unable to find CDP implementation matching 138
+2025-07-11 16:27:30,067 WARN o.o.s.c.ChromiumDriver [main] Unable to find version of CDP to use for 138.0.7204.101. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-11 16:27:32,082 INFO i.g.b.w.WebDriverManager [main] Using chromedriver 138.0.7204.94 (resolved driver for Chrome 138)
+2025-07-11 16:27:32,104 INFO i.g.b.w.WebDriverManager [main] Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-11 16:27:33,099 WARN o.o.s.d.CdpVersionFinder [main] Unable to find CDP implementation matching 138
+2025-07-11 16:27:33,100 WARN o.o.s.c.ChromiumDriver [main] Unable to find version of CDP to use for 138.0.7204.101. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-11 16:35:39,256 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\user\eclipse-workspace\selenium-java-testng-project\src\test\resources\testng.xml"
+2025-07-11 16:35:39,491 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\eclipse-workspace\selenium-java-testng-project\src\test\resources\testng.xml
+
+2025-07-11 16:35:40,212 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-07-11 16:35:40,539 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=138 in cache (valid until 17:25:29 11/07/2025 IST)
+2025-07-11 16:35:40,540 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome138=138.0.7204.94 in cache (valid until 12:19:16 12/07/2025 IST)
+2025-07-11 16:35:40,541 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.94 (resolved driver for Chrome 138)
+2025-07-11 16:35:40,566 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 138.0.7204.94 found in cache
+2025-07-11 16:35:40,566 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-11 16:35:41,604 [main] WARN  org.openqa.selenium.devtools.CdpVersionFinder - Unable to find CDP implementation matching 138
+2025-07-11 16:35:41,604 [main] WARN  org.openqa.selenium.chromium.ChromiumDriver - Unable to find version of CDP to use for 138.0.7204.101. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-11 16:35:43,297 [main] INFO  stepdefinitions.HomePageSteps - Launching the browser...
+2025-07-11 16:35:43,300 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 6.1.0
+2025-07-11 16:35:43,312 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=138 in cache (valid until 17:25:29 11/07/2025 IST)
+2025-07-11 16:35:43,314 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome138=138.0.7204.94 in cache (valid until 12:19:16 12/07/2025 IST)
+2025-07-11 16:35:43,315 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.94 (resolved driver for Chrome 138)
+2025-07-11 16:35:43,330 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 138.0.7204.94 found in cache
+2025-07-11 16:35:43,332 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\user\.cache\selenium\chromedriver\win64\138.0.7204.94\chromedriver.exe
+2025-07-11 16:35:44,026 [main] WARN  org.openqa.selenium.devtools.CdpVersionFinder - Unable to find CDP implementation matching 138
+2025-07-11 16:35:44,026 [main] WARN  org.openqa.selenium.chromium.ChromiumDriver - Unable to find version of CDP to use for 138.0.7204.101. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.14.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+2025-07-11 16:35:45,775 [main] DEBUG stepdefinitions.HomePageSteps - WebDriver instance created: ChromeDriver: chrome on windows (e1d48dc49744f1584d2a5d98efc82ebf)
+2025-07-11 16:35:45,776 [main] INFO  stepdefinitions.HomePageSteps - Opening RenewBuy homepage...
+2025-07-11 16:35:45,799 [main] DEBUG stepdefinitions.HomePageSteps - HomePage object initialized.
+2025-07-11 16:35:45,801 [main] INFO  stepdefinitions.HomePageSteps - Clicking on Health Insurance link...
+2025-07-11 16:35:47,562 [main] DEBUG stepdefinitions.HomePageSteps - Navigated to HealthInsurancePage.
+2025-07-11 16:35:47,564 [main] INFO  stepdefinitions.HealthInsuranceSteps - Verifying if user is on the Health Insurance page.
+2025-07-11 16:35:47,574 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Current URL: https://www.renewbuyinsurance.com/health-insurance
+2025-07-11 16:35:47,609 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Page title verification result: true
+2025-07-11 16:35:47,611 [main] INFO  stepdefinitions.HealthInsuranceSteps - Filling the health insurance form with test data.
+2025-07-11 16:35:47,615 [main] DEBUG stepdefinitions.HealthInsuranceSteps - Full Name: Test User, Pincode: 110001, Number: 9999999999, Captcha: 1234
